@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Letsgrowmore-intern/static/css/main.97c0dd81.css",
+    "main.js": "/Letsgrowmore-intern/static/js/main.ea153879.js",
+    "static/js/787.ca8239a5.chunk.js": "/Letsgrowmore-intern/static/js/787.ca8239a5.chunk.js",
+    "index.html": "/Letsgrowmore-intern/index.html",
+    "main.97c0dd81.css.map": "/Letsgrowmore-intern/static/css/main.97c0dd81.css.map",
+    "main.ea153879.js.map": "/Letsgrowmore-intern/static/js/main.ea153879.js.map",
+    "787.ca8239a5.chunk.js.map": "/Letsgrowmore-intern/static/js/787.ca8239a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c0dd81.css",
+    "static/js/main.ea153879.js"
+  ]
+}
